@@ -1,5 +1,5 @@
 # single-page-cv
 A single-page HTML CV 
 
-Instructions to run the project:
-
+Project URL:
+https://github.com/ed-devv/single-page-cv.git
