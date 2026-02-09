@@ -2,4 +2,4 @@
 A single-page HTML CV 
 
 Project URL:
-https://github.com/ed-devv/single-page-cv.git
+https://roadmap.sh/projects/single-page-cv
